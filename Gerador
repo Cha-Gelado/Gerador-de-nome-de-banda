@@ -1,0 +1,5 @@
+print("Hello dear friend, do you want a name for your band?\n")
+c = input("What city do you came from?\n")
+p = input("and what is the name of your pet?\n")
+print("So, the name of your band is: \n")
+print(c + " " + p)
